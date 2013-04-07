@@ -3,3 +3,9 @@ kenny:
   last_name: 'Kenny'
   email: 'wkenny@dubba.com'
   profile_name: 'wkennyme'
+
+dan:
+  first_name: 'Dam'
+  last_name: 'TheMan'
+  email: 'DtheMan@DTM.com'
+  profile_name: 'danname'
