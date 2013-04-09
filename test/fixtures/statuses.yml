@@ -9,5 +9,5 @@ two:
   user: kenny
 
 three:
-  content: "Hi my name is dan"
-  user: danname
+  content: 'Hi my name is dan'
+  user: dan
